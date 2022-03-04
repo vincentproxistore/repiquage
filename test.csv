@@ -1,19 +1,19 @@
-ACCOUNTNAME,CITY
-CARPET 2000 - 4D DECOR,MEISE
-DE SLAGMOLEN HOUTHANDEL BVBA,BILZEN
-GROEP VERHEYEN,MAASMECHELEN
-SERRY TNP,BOORTMEERBEEK
-TEGEL CONCEPT OVERIJSE HQ,OVERIJSE
-THIRY PAINTS HERENT,DONK
-LA BOISERIE SA,WAUDREZ
-RENARD JOS,OREYE
-SA RULOT HOME DECORATION,TINLOT
-BAILLOUX,SEMMERZAKE
-DE SUTTER HOUTHANDEL,OOSTERZELE
-GROEP F&S,HEIST OP DEN BERG
-HOUTSHOP VAN DER GUCHT,TEMSE
-IMABRU BVBA,EEKLO
-WOODTEX VAN DERAUWERA NV,ANTWERPEN
-ZELFBOUWMARKT BVBA,NINOVE
-DEKOTAP BVBA,OOSTENDE
-PARKETCENTER,KUURNE
+ACCOUNTNAME,CITY,CLICKTAG
+CARPET 2000 - 4D DECOR,MEISE,https://partners.quick-step.com/nl-BE/carpet-2000-4d-decor
+DE SLAGMOLEN HOUTHANDEL BVBA,BILZEN,https://partners.quick-step.com/nl-BE/de-slagmolen-houthandel-bvba
+GROEP VERHEYEN,MAASMECHELEN,https://partners.quick-step.com/nl-BE/groep-verheyen
+SERRY TNP,BOORTMEERBEEK,https://partners.quick-step.com/nl-BE/serry-tnp
+TEGEL CONCEPT OVERIJSE HQ,OVERIJSE,https://partners.quick-step.com/nl-BE/tegel-concept-overijse-hq
+THIRY PAINTS HERENT,DONK,https://partners.quick-step.com/nl-BE/thiry-paints-donk
+LA BOISERIE SA,WAUDREZ,https://partners.quick-step.com/fr-BE/la-boiserie-sa
+RENARD JOS,OREYE,https://partners.quick-step.com/nl-be/renard-jos-anc-sa-nv
+SA RULOT HOME DECORATION,TINLOT,https://partners.quick-step.com/fr-BE/sa-rulot-home-decoration
+BAILLOUX,SEMMERZAKE,https://partners.quick-step.com/nl-BE/alternative-flooring
+DE SUTTER HOUTHANDEL,OOSTERZELE,https://partners.quick-step.com/nl-BE/de-sutter-houthandel
+GROEP F&S,HEIST OP DEN BERG,https://partners.quick-step.com/nl-BE/groep-f-s
+HOUTSHOP VAN DER GUCHT,TEMSE,https://partners.quick-step.com/nl-BE/houtshop-van-der-gucht
+IMABRU BVBA,EEKLO,https://partners.quick-step.com/nl-BE/imabru-bvba
+WOODTEX VAN DERAUWERA NV,ANTWERPEN,https://partners.quick-step.com/nl-BE/woodtex-van-derauwera-nv
+ZELFBOUWMARKT BVBA,NINOVE,https://partners.quick-step.com/nl-BE/zelfbouwmarkt-bvba
+DEKOTAP BVBA,OOSTENDE,https://partners.quick-step.com/nl-BE/dekotap-bvba
+PARKETCENTER,KUURNE,https://partners.quick-step.com/nl-BE/parketcenter

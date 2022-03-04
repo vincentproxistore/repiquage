@@ -8,6 +8,7 @@ var server = http.createServer(function(req, res) {
   .on('data', (row) => {
     console.log(row['ACCOUNTNAME']);
     console.log(row['CITY']);
+    console.log(row['CLICKTAG']);
   })
   .on('end', (e) => {
     console.log('CSV file successfully processed');
