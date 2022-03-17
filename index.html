@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sample Site</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style>
+    body { padding-top: 50px; }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <h1>Repiquage generator</h1>
+    </div>
+
+    <button id="withAdSquare" class="btn btn-dark">Generate with ad square</button>
+    <button id="withoutAdSquare" class="btn btn-dark">Generate with ad square</button>
+  </div>
+    
+</body>
+
+<script>
+const withAdSquare = document.querySelector('#withAdSquare');
+const withoutAdSquare = document.querySelector('#withoutAdSquare');
+
+withAdSquare.addEventListener('click', (e) => {
+  e.preventDefault();
+  window.location.href = 'http://localhost:8000/generate?withAdsquare='+true;
+});
+
+withoutAdSquare.addEventListener('click', (e) => {
+  e.preventDefault();
+  window.location.href = 'http://localhost:8000/generate?withAdsquare='+false;
+});
+
+
+</script>
+</html>
